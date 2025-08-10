@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project predicts whether an online course will be **completed** or remain **pending** based on learners’ engagement patterns such as time spent, quizzes taken, videos watched, and device usage.
+This project predicts whether an online course will be **completed** or remain **pending** based on learners’ engagement patterns such as time spent, quizzes taken, videos watched and device usage.
 It uses **Logistic Regression**, **Support Vector Machines (SVM)**, and **Random Forest Classifier** to classify course completion outcomes.
 
 ---
