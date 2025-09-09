@@ -83,7 +83,7 @@ The dataset `predictOnlineCourseEngagementDataset.csv` contains the following fe
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/Syeda-Mahjabin-Proma/online-course-engagement-prediction.git
+   git clone https://github.com/Syeda-Mahjabin-Proma/Online-Course-Engagement-Prediction.git
    ```
 2. Install dependencies
 
